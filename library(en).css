@@ -1,0 +1,146 @@
+body{
+    background-color: rgb(244, 244, 193);
+}
+div{
+    color: rgba(0, 0, 0, 0.527);
+    font-family: Yu Mincho;
+}
+
+.謹賀{
+    font-size: 30pt;
+    position: fixed;
+    top:0px;
+    left: 600px;
+
+}
+
+.新年{
+    font-size: 30pt;
+    position: fixed;
+    left: 765px;
+    top: 0px;
+}
+
+.ミニ図書館{
+    position: fixed;
+    font-size:25pt;
+    top: 230px;
+    left: 640px;
+    
+    
+
+}
+
+.a{
+    position: fixed;
+    font-size: 25pt;
+    top: 315px;
+    left: 520px;
+   
+
+}
+
+.b{
+    position: fixed;
+    font-size: 25pt;
+    top: 400px;
+    left: 520px;
+
+
+}
+
+.c{
+    position: fixed;
+    font-size: 25pt;
+    top: 475px;
+    left: 520px;
+
+
+}
+
+.d{
+    position: fixed;
+    font-size: 25pt;
+    top: 555px;
+    left: 520px;
+
+
+}
+
+.ground{
+        position:fixed;
+        width: 500px;
+        left: 475px;
+        bottom:30px;
+}
+
+@media (max-width: 480px){
+    .謹賀{
+        font-size: 30pt;
+        position: fixed;
+        top: 0px;
+        left: 90px;
+    }
+}
+@media (max-width: 480px){
+    .新年{
+        font-size: 30pt;
+        position: fixed;
+        top: 0px;
+        left: 220px;
+    }
+}
+@media(max-width: 480px){
+    .ミニ図書館{
+        position: fixed;
+        top: 140px;
+        font-size: 18pt;
+        left: 135px;
+    }
+}
+@media(max-width: 480px){
+    .a{
+        position: fixed;
+        top: 200px;
+        font-size: 15pt;
+        left: 30px;
+
+    }
+}
+@media(max-width: 480px){
+    .b{
+        position: fixed;
+        top: 250px;
+        left: 30px;
+        font-size: 15pt;
+
+    }
+}
+@media(max-width: 480px){
+    .c{
+        position: fixed;
+        top: 300px;
+        font-size: 15pt;
+        left: 30px;
+
+    }
+}
+@media(max-width: 480px){
+    .d{
+        position: fixed;
+        top: 350px;
+        font-size: 15pt;
+        left: 30px;
+
+    }
+}
+@media(max-width: 480px){
+    .ground{
+        position: fixed;
+        width: 370px;
+        height: 470px;
+        top: 20px;
+        left: 15px;
+
+    }
+}
